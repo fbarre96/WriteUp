@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="logo-ecw.png" width="300px" height="200px"/></div>
+<img src="logo-ecw.png" width="300px" height="200px" align="center"/>
 <img src="ECW.png" align="center"/>
 L'European Cyber Week 2017, de son petit nom ECW, est un évènement comportant un challenge à l'échelle européenne, destiné aux étudiants et organisé avec le soutien du ministère de la Défense et de la région Bretagne.
 
