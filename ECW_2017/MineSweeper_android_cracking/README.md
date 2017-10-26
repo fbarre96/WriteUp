@@ -1,4 +1,4 @@
-![alt text](https://github.com/fbarre96/WriteUp/tree/master/ECW_2017/MineSweeper_android_cracking/ECW.png "ECW")
+![Alt ECW sponsors](https://github.com/fbarre96/WriteUp/tree/master/ECW_2017/MineSweeper_android_cracking/ECW.png "ECW")
 L'European Cyber Week 2017, de son petit nom ECW, est un évènement comportant un challenge à l'échelle européenne, destiné aux étudiants et organisé avec le soutien du ministère de la Défense et de la région Bretagne.
 
 La première phase du challenge de l'ECW consistait en un CTF qui a durée 2 semaines à la fin du mois d'octobre 2017. Ce CTF permet de qualifier les finalistes pour la seconde phase qui aura lieu le 29 novembre à Rennes.
